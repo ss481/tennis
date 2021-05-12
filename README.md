@@ -16,7 +16,7 @@ https://github.com/zhreshold/mxnet-ssd
 https://github.com/ZER-0-NE/EAST-Detector-for-text-detection-using-OpenCV
     Used text detection model from the repository 
  (https://drive.google.com/drive/folders/1lR3fJQIkop08kJp0Abg7MBCoh7yXXPFD?usp=sharing)
-
+ 
 IMPORTANT!
 For the Tesseract-OCR algorithm, path of the installed location is needed.
   input variable: --text-recognition-exe 
